@@ -3,8 +3,8 @@ import pandas as pd
 import pickle
 
 # load the model from disk
-filename='app/model_sarima.pkl'
-loaded_model = pickle.load(open(filename, 'rb'))
+#filename='app/model_sarima.pkl'
+#loaded_model = pickle.load(open(filename, 'rb'))
 
 
 #Titulo
