@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 
 # load the model from disk
-filename='prophet_model.sav'
+filename='model_sarima.pkl'
 loaded_model = pickle.load(open(filename, 'rb'))
 
 
