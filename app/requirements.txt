@@ -1,3 +1,4 @@
+wheel
 streamlit
 matplotlib
 scikit-learn
