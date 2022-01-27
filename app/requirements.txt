@@ -1,5 +1,4 @@
 wheel
-pystan
 streamlit
 matplotlib
 scikit-learn
