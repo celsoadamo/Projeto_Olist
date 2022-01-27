@@ -1,7 +1,3 @@
-wheel
 streamlit
-matplotlib
-scikit-learn
 statsmodels
-fbprophet
 pandas
