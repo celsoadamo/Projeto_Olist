@@ -1,12 +1,6 @@
 import pandas as pd
-import streamlit as st
-import pickle
-#import joblib
 import matplotlib.pyplot as plt
-from pandas import read_csv
-from statsmodels.tsa.arima_model import ARIMA
-from statsmodels.tsa.arima_model import ARIMAResults
-
+import pickle
 
 # load the model from disk
 filename='prophet_model.sav'
