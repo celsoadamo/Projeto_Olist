@@ -60,9 +60,13 @@ Pandas – biblioteca usada para manipulação de dados
  
 Por fim, realçar que utilizou-se como infraestrutura de armazenamento do Google Colab para poder analisar as diversas fontes de dados que estavam em arquivos no formato csv (dados disponibilizados pela Olist extraídos do Kaggle).
 
+
 **Arquitecturas**
 
-Em seguida é ilustrada o overview da soluçao desde a **coleta** até **ao deploy da solução desenvolvida**.
+Em seguida é ilustrada o overview da solução desde a **coleta** até **ao deploy da solução desenvolvida**.
+
+![image](https://user-images.githubusercontent.com/64884982/151559682-e843daec-f2b5-49b0-b207-423061417a5d.png)
+
  
 Os principais desafios enfrentados foram:
 
