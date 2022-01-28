@@ -34,30 +34,41 @@ Por fim, realçar que o grande impacto que o projeto terá sobre o negócio da O
 **Tecnologias Utilizadas**
 
 Para resolver este problema foi construida uma solução completa para armazenamento, gestão utilizando tecnologias como Google Colab além de explorar uma suite de tecnologias e/ou bibliotecas para análise, visualização de dados e machine learning tais como: pandas, matplotlib, seaborn, plotly, scikit-learn, statsmodels, fbprophet, streamlit.
-Pandas – biblioteca usada para manipulação de dados
- 
+**Pandas** – biblioteca usada para manipulação de dados
+ ![image](https://user-images.githubusercontent.com/64884982/151560164-236239b0-c365-4179-b5a9-efddb343d31f.png)
+
 **Matplotlib** – biblioteca usada para visualização de dados.
- 
+ ![image](https://user-images.githubusercontent.com/64884982/151560194-d716af52-a448-4240-9c4a-2a0de9ec3ff6.png)
+
 **Seaborn** – biblioteca usada para visualização de dados baseada no matplotlib, permitindo construir graficos mais profissonais.
- 
+ ![image](https://user-images.githubusercontent.com/64884982/151560257-69f81b1a-fe15-476c-8d89-a26625200499.png)
+
 **Plotly** – biblioteca utilizada para desenvolver gráficos iterativos e construir dashboards usando chart studio.
- 
+ ![image](https://user-images.githubusercontent.com/64884982/151560437-2d199508-1de4-423f-af48-6d79a9d7f79b.png)
+
 **Scikit-learn** – biblioteca usada para implementar os algoritmos de machine learning (utilizou-se o pickle para serializar o modelo em disco)
- 
+ ![image](https://user-images.githubusercontent.com/64884982/151560360-41eecbaf-fbdc-42d6-b665-649450e16d56.png)
+
 **Statsmodels** – biblioteca usada para implementar métodos estatisticos e alguns algoritmos de séries temporaris como o ARIMA e SARIMAX.
- 
+ ![image](https://user-images.githubusercontent.com/64884982/151560500-5536fe5b-98ca-4ff3-b0bd-a92190fd55fc.png)
+
 **Facebook Prophet** – biblioteca usada para implementar algoritmos de machine learning para resolver problemas de séries tempiorais desenvolvido pela Microsoft.
- 
+ ![image](https://user-images.githubusercontent.com/64884982/151560568-c7b9128c-0f21-484e-9792-fb1edc4f5a8b.png)
+
 **Streamlit** – biblioteca utilizada para desenvolver a aplicação e/ou fórmulário para testar o modelo em ambiente de produção.
- 
+ ![image](https://user-images.githubusercontent.com/64884982/151560614-8d3759fd-0da9-4061-bb90-1a133767ba18.png)
+
 **Ferramentas de auxiliares:**
 
 **Python** – liguagem de programação utilizada para desenvolver o projeto de ciência de dados.
 
 **Google colab** – editor de código online que geralmente é organizado por células.
- 
+![image](https://user-images.githubusercontent.com/64884982/151560670-aa0237f8-a29c-431f-bc7a-68fed6a1f9e3.png)
+
+
 **Github** – ferramenta que permite versionar, partilhar o código desenvolvido e também atribuir acesso a outros profissinais para colaborarem nos artefatos do projeto.
- 
+ ![image](https://user-images.githubusercontent.com/64884982/151560731-bfce9466-af18-4e80-be8c-dcf4454938d1.png)
+
 Por fim, realçar que utilizou-se como infraestrutura de armazenamento do Google Colab para poder analisar as diversas fontes de dados que estavam em arquivos no formato csv (dados disponibilizados pela Olist extraídos do Kaggle).
 
 
@@ -83,25 +94,31 @@ Os principais desafios enfrentados foram:
 
 Na etapa de Análise Exploratória dos Dados foram descobertos vários insights importantes abaixo:
 •	As vendas tem uma tendência positiva ou de cresceimento ao longo dos anos.
- 
+ ![image](https://user-images.githubusercontent.com/64884982/151559832-792fee99-bb06-491d-a856-73a4a190c5fc.png)
+
 •	97% dos produtos são entregues aos clientes, ou seja, os pedidos estão no estado delivered.
 
 •	A maior parte dos reviews dos produtos é positiva (média de 4.08) e um dos títulos mais usado é o Recomendo e a mensagem mais escrita é o Muito Bom.
 
 •	Uma das categorias de produtos mais comprados é cama_mesa_banho.
- 
+ ![image](https://user-images.githubusercontent.com/64884982/151559884-582c266e-89e3-4cac-817d-6edeb5bec6f5.png)
+
 •	Em média um pedido tem apenas 1 items/produto.
 
 •	Os clientes utilizam 5 formas de pagamento das compras por si efectuadas e a forma de pagamento mais usada é credit_card
-  
+  ![image](https://user-images.githubusercontent.com/64884982/151559940-09e3abb4-4064-4544-b3ab-887abae9a2ca.png)
+
 
 •	A maior partes do pagamentos é feita em uma única prestação mas os pagamentos feitos em parcelas variam de 2 à 24 tranches. No entanto, em média os clientes pagam em 3 prestações.
- 
+ ![image](https://user-images.githubusercontent.com/64884982/151559993-23c9422b-4a21-4fb2-af0b-7a6004ea2d1b.png)
+
 
 •	Existe uma correlação positiva fraca (0.41) entre o preço de venda e o valor de frete e também constatamos que a maior parte das vendas teve um score de 5 (classificação máxima), isto é, um review positivo.
- 
+ ![image](https://user-images.githubusercontent.com/64884982/151560032-3e764aae-f278-4260-bc16-6497affc05b3.png)
+
 •	Na cadeia de lojas existentes São Paulo é a cidade que mais vende.
- 
+ ![image](https://user-images.githubusercontent.com/64884982/151560069-47b74142-5be9-4568-8cf4-ca590047e7b0.png)
+
 •	Existem vendas sem não pagas ou com valor de pagamento igual a zero.
 o	Os preços dos produtos variam de 0.85 a 6 735 reais.
 o	Os preços dos fretes variam de 0 a 409.68 reais.
