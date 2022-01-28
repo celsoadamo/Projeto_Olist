@@ -34,6 +34,7 @@ Por fim, realçar que o grande impacto que o projeto terá sobre o negócio da O
 **Tecnologias Utilizadas**
 
 Para resolver este problema foi construida uma solução completa para armazenamento, gestão utilizando tecnologias como Google Colab além de explorar uma suite de tecnologias e/ou bibliotecas para análise, visualização de dados e machine learning tais como: pandas, matplotlib, seaborn, plotly, scikit-learn, statsmodels, fbprophet, streamlit.
+
 **Pandas** – biblioteca usada para manipulação de dados
 
  ![image](https://user-images.githubusercontent.com/64884982/151560164-236239b0-c365-4179-b5a9-efddb343d31f.png)
