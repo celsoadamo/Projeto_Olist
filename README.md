@@ -82,6 +82,10 @@ Para resolver este problema foi construida uma solução completa para armazenam
 
 Por fim, realçar que utilizou-se como infraestrutura de armazenamento do Google Colab para poder analisar as diversas fontes de dados que estavam em arquivos no formato csv (dados disponibilizados pela Olist extraídos do Kaggle).
 
+**Overview Geral**
+
+![image](https://user-images.githubusercontent.com/64884982/151900788-3feabed0-ce3e-419c-a97e-ddcaa17c987d.png)
+
 
 **Arquitecturas**
 
@@ -89,7 +93,8 @@ Em seguida é ilustrada o overview da solução desde a **coleta** até **ao dep
 
 **Projetada pela squad**
 
-![image](https://user-images.githubusercontent.com/64884982/151900788-3feabed0-ce3e-419c-a97e-ddcaa17c987d.png)
+![image](https://user-images.githubusercontent.com/64884982/151901047-fa7ddb59-5d71-49ff-a9a2-666905c82f00.png)
+
 
 
 **Utilizada no notebook de análise devido aos desafiso enfrentados e deadline do projeto**
