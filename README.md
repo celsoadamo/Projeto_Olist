@@ -4,7 +4,7 @@ Projeto de Machine Learning da Olist e-commerce Brasil
 
 # Objetivos do projeto
 
-Neste projeto cobrimos todas as etapas de um projeto real de Ciência de Dados e respondemos a algumas questoes importantes sobre o negócio utilizando dados com intuito de permitir que a empresa Olist tenha conhecimento sobre:
+Neste projeto cobrimos todas as etapas de um projeto real de Ciência de Dados e respondemos a algumas questoes importantes sobre o negócio utilizando dados com intuito de permitir que a empresa de e-commerce do Brasil denominada Olist tenha conhecimento sobre:
 
 •	Qual a distribuição dos pedidos por estado?
 
