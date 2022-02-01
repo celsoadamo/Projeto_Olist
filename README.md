@@ -170,3 +170,8 @@ Através deste projeto foi possivel praticar e implementar conceitos importantes
 A resoluçao dos problemas acima mencionados, permitirá obter insights para desenhar e/ou alterar a estratégia do negócio da empresa, visto que, o e-commerce é um ambiente muito dinâmico e os clientes podem ter comportamentos diferentes de compras ao longo do tempo. Com a implementação desta solução teremos como beneficio, um recurso organizacional que permitirá identificar o comportamento de compra dos clientes e contribuirá para ajustar a estratégia de venda e retençao de clientes num horizonte temopral.
 
 Por fim, como um processo de melhoria continua podemos reduzir o erro de previsão, desenvolver uma automação para executar o pipeline de coleta e transformaçao dos dados e automatizar a etapa de Machine Learning e Deploy.
+
+
+
+Link do Streamlit: https://share.streamlit.io/celsoadamo/projeto_olist/main/app/app.py 
+
