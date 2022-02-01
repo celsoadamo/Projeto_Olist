@@ -117,6 +117,7 @@ Os principais desafios enfrentados foram:
 **Insights e Conhecimento Gerado**
 
 Na etapa de Análise Exploratória dos Dados foram descobertos vários insights importantes abaixo:
+
 •	As vendas tem uma tendência positiva ou de cresceimento ao longo dos anos.
 
  ![image](https://user-images.githubusercontent.com/64884982/151559832-792fee99-bb06-491d-a856-73a4a190c5fc.png)
