@@ -86,6 +86,11 @@ Por fim, realçar que utilizou-se como infraestrutura de armazenamento do Google
 **Arquitecturas**
 
 Em seguida é ilustrada o overview da solução desde a **coleta** até **ao deploy da solução desenvolvida**.
+**Projetada**
+![image](https://user-images.githubusercontent.com/64884982/151900788-3feabed0-ce3e-419c-a97e-ddcaa17c987d.png)
+
+
+**Utilizada**
 
 ![image](https://user-images.githubusercontent.com/64884982/151559682-e843daec-f2b5-49b0-b207-423061417a5d.png)
 
