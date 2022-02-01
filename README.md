@@ -98,7 +98,7 @@ Em seguida é ilustrada o overview da solução desde a **coleta** até **ao dep
 
 
 
-**Utilizada no notebook de análise devido aos desafios enfrentados e deadline do projeto**
+**Utilizada no notebook de análise de dados devido aos desafios enfrentados e deadline do projeto**
 
 ![image](https://user-images.githubusercontent.com/64884982/151559682-e843daec-f2b5-49b0-b207-423061417a5d.png)
 
