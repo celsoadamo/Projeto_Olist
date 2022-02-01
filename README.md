@@ -165,7 +165,7 @@ Para a estimativa de predizer o valor de venda diário foi implementado um model
 
 # Conclusão
 
-Através deste projeto foi possivel praticar e implementar conceiros importantes de Ciência e Engenharia de Dados e propor uma solução para um problema latente em qualquer empresa de e-commerce que é a análise da situação actual do negócio e a previsão de vendas dos meses subsequentes.
+Através deste projeto foi possivel praticar e implementar conceitos importantes de Ciência e Engenharia de Dados e propor uma solução para um problema latente em qualquer empresa de e-commerce que é a análise da situação actual do negócio e a previsão de vendas dos meses subsequentes.
 
 A resoluçao dos problemas acima mencionados, permitirá obter insights para desenhar e/ou alterar a estratégia do negócio da empresa, visto que, o e-commerce é um ambiente muito dinâmico e os clientes podem ter comportamentos diferentes de compras ao longo do tempo. Com a implementação desta solução teremos como beneficio, um recurso organizacional que permitirá identificar o comportamento de compra dos clientes e contribuirá para ajustar a estratégia de venda e retençao de clientes num horizonte temopral.
 
