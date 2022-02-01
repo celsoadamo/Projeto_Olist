@@ -33,7 +33,7 @@ Por fim, realçar que o grande impacto que o projeto terá sobre o negócio da O
 
 **Tecnologias Utilizadas**
 
-Para resolver este problema foi construida uma solução completa para armazenamento, gestão utilizando tecnologias como Google Colab além de explorar uma suite de tecnologias e/ou bibliotecas para análise, visualização de dados e machine learning tais como: pandas, matplotlib, seaborn, plotly, scikit-learn, statsmodels, fbprophet, streamlit.
+Para resolver este problema foi construida uma solução completa para armazenamento e gestão no **databricks** (usou o Google Colab como estrutura de armazenamento dos datasets para os notebooks de análise de dados) além de explorar uma suite de tecnologias e/ou bibliotecas para análise, visualização de dados e machine learning tais como: **pandas, matplotlib, seaborn, plotly, scikit-learn, statsmodels, fbprophet, streamlit e pyspark.**
 
 **Pandas** – biblioteca usada para manipulação de dados
 
@@ -68,6 +68,11 @@ Para resolver este problema foi construida uma solução completa para armazenam
  ![image](https://user-images.githubusercontent.com/64884982/151560614-8d3759fd-0da9-4061-bb90-1a133767ba18.png)
 
 **Ferramentas de auxiliares:**
+
+**Pyspark** – para processamento de grandes volumes de dados em ambientes distribuído.
+ 
+![image](https://user-images.githubusercontent.com/64884982/152004193-46e325db-e0af-4ada-adc9-52c8a426b89a.png)
+
 
 **Python** – liguagem de programação utilizada para desenvolver o projeto de ciência de dados.
 
